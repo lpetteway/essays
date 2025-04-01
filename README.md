@@ -1,26 +1,21 @@
-# essays
-# Hello, Juncture
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+# Rabbits and hares in art
 
-## Aulacophora indica
+Rabbits and hares (Leporidae) are common motifs in the visual arts, with variable mythological and artistic meanings in different cultures. The rabbit as well as the hare have been associated with moon deities and may signify rebirth or resurrection. They may also be symbols of fertility or sensuality, and they appear in depictions of hunting and spring scenes in the Labours of the Months.
 
-.ve-media wc:The_Bug_Peek.jpg right
+## Christian Art
 
-The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
+.ve-media wc:Madonna_of_the_rabbit.jpg right
 
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+As a symbol of fertility, white rabbits appear on a wing of the high altar in Freiburg Minster. They are playing at the feet of two pregnant women, Mary and Elizabeth. Martin Schongauer's engraving Jesus after the Temptation (1470) shows nine (three times three) rabbits at the feet of Jesus Christ, which can be seen as a sign of extreme vitality. In contrast, the tiny squashed rabbits at the base of the columns in Jan van Eyck's Rolin Madonna symbolize "Lust", as part of a set of references in the painting to all the Seven Deadly Sins.
 
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
+## Judaism
 
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
+In Judaism, the rabbit is considered an unclean animal, because "though it chews the cud, does not have a divided hoof." This led to derogatory statements in the Christian art of the Middle Ages, and to an ambiguous interpretation of the rabbit's symbolism. The "shafan" in Hebrew has symbolic meaning. Although rabbits were a non-kosher animal in the Bible, positive symbolic connotations were sometimes noted, as for lions and eagles. 16th century German scholar Rabbi Yosef Hayim Yerushalmi, saw the rabbits as a symbol of the Diaspora. In any case, a three hares motif was a prominent part of many Synagogues.
 
-## Chitwan National Park, Nepal
+## In Secular Art
 
-.ve-map Q1075023 right
+.ve-media wc: beatrix_potter.jpg right
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beatrix_Potter_Peter_Rabbit.jpg)
 
-The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
-
-An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
-
-Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
+The children's tales of the English author Beatrix Potter, illustrated by herself, include several titles featuring the badly behaved Peter Rabbit and other rabbit characters, including her first and most successful book The Tale of Peter Rabbit (1902), followed by The Tale of Benjamin Bunny (1904), and The Tale of The Flopsy Bunnies (1909). Potter's anthropomorphic clothed rabbits are probably the most familiar artistic rabbits in the English-speaking world, no doubt influenced by illustrations by John Tenniel of the White Rabbit in Lewis Carroll's book Alice's Adventures in Wonderland.
